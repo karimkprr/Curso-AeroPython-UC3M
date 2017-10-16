@@ -1,0 +1,1 @@
+x = randn (10000) ; hist (x , bins =40 , color = ’w ’) ;
